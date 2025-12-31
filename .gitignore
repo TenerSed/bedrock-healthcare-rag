@@ -219,3 +219,4 @@ lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libpq-320873a1.so.5.
 lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libsasl2-68c9cb0a.so.3.0.0
 lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libselinux-ae24b712.so.1
 lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libssl-92369ee6.so.3
+lambda-package/healthcare_rag_backup.sql

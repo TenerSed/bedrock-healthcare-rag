@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libcom_err-057ba42b.so.2.1
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libcrypto-88e3da85.so.3
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libgssapi_krb5-fec99a71.so.2.2
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libk5crypto-47ac5e52.so.3.1
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libkeyutils-19c64d08.so.1.5
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libkrb5-90a0ef7c.so.3.3
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libkrb5support-73f3f43d.so.0.1
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/liblber-33741b08.so.2.0.200
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libldap-e13ca69f.so.2.0.200
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libpcre-6b975b27.so.1.2.0
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libpq-320873a1.so.5.17
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libsasl2-68c9cb0a.so.3.0.0
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libselinux-ae24b712.so.1
+lambda-package/lambda_dep/layer/python/psycopg2_binary.libs/libssl-92369ee6.so.3
